@@ -1,0 +1,4 @@
+FolderIconChanger v7 (csproj Version 1.1.2)
+수정: 실행 아이콘 교체(Imagere) + 창 제목에 버전 표시
+빌드: Release net8.0-windows
+실행: FolderIconChanger.exe
